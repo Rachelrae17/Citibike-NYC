@@ -10,7 +10,8 @@ For Starting a new business there is always the overview of cost or Supply and D
 The First Slide Tells The Buisness Of The NYC CitiBike. This Shows The city and where the Bikes are Located and where they begin. 
 The Chart to the right shows the tripduration on when they start to ride the bike. 
 The Pie Chart Is the Breakdown Of The Gender Percentage of who likes to ride the bikes. 
-https://user-images.githubusercontent.com/95897182/161450339-a876fba4-75dd-4b7e-93e3-92e97b66e05f.png 
+![image](https://user-images.githubusercontent.com/95897182/161451608-97a52f99-ab28-45a9-9762-dd8a15233d80.png)
+
 
 The Second Slide Shows The Trip Duration For The City of Des Moines. This Shows The Data Of Bikes that are rented and for the duration of time by the hours and minutes.
 
