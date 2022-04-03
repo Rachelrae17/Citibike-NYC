@@ -33,6 +33,24 @@ Blue of the maps shows the time of more bikes being rented.
 
 ![image](https://user-images.githubusercontent.com/95897182/161453182-8e7fa7b0-3a8c-4f23-b0a6-a8ecd22726e0.png)
 
+Summary- 
+
+This Company Analysis of building a buisness was very logical with gathering and interpreting the data set. Being able to use NYC Citibike to help this company start up in Des Moines has been a very valuable tool. For NYC the most busiest hours of having customers ride the bikes were in the morining hours and in the evening hours. That Timeframe is most popular and there are the most bikes being rented and populated then requardless of the season and time of the year. 
+This Analysis for starting a new company in Des Moines will have a different look then the big apple in NYC. Supply and Demand will look different because the 
+population in NYC is much greater as well as NYC attracts alot of tourist. Where as the company in Des Moines the population for the bike riders will most likley be 
+the community itself as well as a few tourist from time to time. 
+
+My Two Additional Visualtions For The Future would be: 
+
+1- The only time bike riding would be popular to do would be the season of Spring, Summer, and fall in both NYC and Des Moines. There will always be an off Season so that is something to consider those numbers in that decrease season. 
+
+2- What is the cost and supplies needed for all the bike repairs? Bike can and will get a flat tire from time to time.It is neccesary to calculate the year price and budget of how much bike will need repairs and how often they will need to be replaced. 
+
+My Tableau Story:https://public.tableau.com/newWorkbook/754f7673-f69b-4635-8b7c-7f2a3af56796#2 
+
+
+
+
 
 
 
