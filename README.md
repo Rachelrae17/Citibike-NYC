@@ -26,5 +26,8 @@ Heatmap Shows The Start time of bikes to rent. The Columns are the days of the w
 
 The Fifth Slide Story Shows The Rented Heatmap By The Gender For Riding Bikes. 
 
+![image](https://user-images.githubusercontent.com/95897182/161452530-c10fe450-52bd-4fb8-b481-0d5f472093b8.png)
+
+
 
 
