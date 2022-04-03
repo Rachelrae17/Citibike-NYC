@@ -28,6 +28,11 @@ The Fifth Slide Story Shows The Rented Heatmap By The Gender For Riding Bikes.
 
 ![image](https://user-images.githubusercontent.com/95897182/161452530-c10fe450-52bd-4fb8-b481-0d5f472093b8.png)
 
+The Sixth Slide Story Shows the Heatmap of The Number Of Rentals by several different Groups. days of the week is the rows, The Bottom is the subscriber. The dark 
+Blue of the maps shows the time of more bikes being rented. 
+
+
+
 
 
 
