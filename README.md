@@ -14,5 +14,8 @@ The Pie Chart Is the Breakdown Of The Gender Percentage of who likes to ride the
 
 
 The Second Slide Shows The Trip Duration For The City of Des Moines. This Shows The Data Of Bikes that are rented and for the duration of time by the hours and minutes.
+![image](https://user-images.githubusercontent.com/95897182/161451672-d247a033-84f5-46de-aee2-ffdba9e6a89d.png)
+
+The Third Slide Shows The Trip By Gender Duration. Who Likes to ride A Bike More Men Or Woman? Good Question- I thought the same too!
 
 
