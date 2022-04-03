@@ -22,5 +22,7 @@ The Third Slide Shows The Trip By Gender Duration. Who Likes to ride A Bike More
 The Fourth Slide Shows A Rented HeatMap 
 Heatmap Shows The Start time of bikes to rent. The Columns are the days of the week, and the rows are the hours of the day. The dark red area shows the time of the day that is most popular for renting the bikes. 
 
+![image](https://user-images.githubusercontent.com/95897182/161452387-88338dc4-dea5-4173-a776-c3b2d3551899.png)
+
 
 
